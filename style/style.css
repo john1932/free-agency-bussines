@@ -1,0 +1,233 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.info-operator{
+  margin: 0 auto;
+  position: static;
+  height: 42px;
+  background: #f0f2f4;
+  border-bottom: 1px solid #e2e2e2;
+}
+
+.container{
+  width: 1024px;
+  margin: 0 auto;
+}
+
+.info-operator h3{
+  font-size: 15px;
+  color: #424242;
+}
+
+.info-operator a{
+  text-decoration: none;
+  font-size: 15px;
+  color: #424242;
+}
+
+.container{
+  width: 1024px;
+}
+
+.headerInfo{
+  float: left;
+  padding-top: 1px;
+}
+
+.headerInfo ul li{
+  display: inline-block;
+  padding-top: 10px;
+}
+
+.headerInfo ul li:first-child{
+/*  padding-left: 728.9px;*/
+  padding-right: 10px;
+}
+
+.headerOperator{
+  float: right;
+}
+
+.headerOperator ul li{
+  display: inline-block;
+  padding-top: 12.5px;
+  padding-left: 20px;
+}
+
+.headerOperator ul li:last-child{
+  width: 25px;
+  height: 25px;
+  background: #1287bf;
+  text-align: center;
+  padding-top: 5px;
+  border-radius: 4px;
+  padding-left: 0;
+}
+
+.logo-menu{
+  height: 130px;
+  background: #ffffff;
+}
+
+.logo{
+ float: left;
+ padding-top: 40px;
+}
+
+.university{
+  float: left;
+}
+
+.busines-information{
+  float: right;
+  padding-left: 12px;
+  color: #424242;
+}
+
+.busines-information h1{
+  font-size: 37px;
+}
+
+.busines-information h2{
+  font-size: 15px;
+}
+
+.nav{
+  font-size: 15px;
+  padding-top: 60px;
+  padding-left: 190px;
+  margin: 0 auto;
+  display: inline-block;
+}
+
+.nav ul li{
+  width: 19%;
+  display: inline;
+  list-style: none;
+  margin: 0 auto;
+  padding-left: 16px;
+}
+
+.nav ul li img{
+  padding-bottom: 2.5px;
+  padding-right: 14px;
+}
+
+.nav ul a{
+  text-decoration: none;
+  color: #4f4f4f;
+}
+
+.nav ul li span{
+  color: #de2b24;
+}
+
+.nav .button-menu{
+  width: 170px;
+  height: 38px;
+  background: #de2b24;
+  color: #ffffff;
+  text-align: center;
+  border: none;
+  border-radius: 6px;
+}
+
+.section1{
+  height: 550px;
+  background+:;
+  background-image: url(/images/bloc1.png);
+  text-align: center;
+}
+
+.section1 h1{
+  font-size: 48px;
+  color: #ffffff;
+  padding-top: 175px;
+}
+
+.section1 h2{
+  font-size: 26px;
+  color: #ffffff;
+  padding-top: 5px;
+  padding-bottom: 30px;
+}
+
+.section1 .button-section1{
+  width: 335px;
+  height: 75px;
+  background: #f8cd53;
+  color: #ffffff;
+  font-size: 23.43px;
+  text-align: center;
+  border: none;
+  border-radius: 6px;
+}
+
+.section2{
+  background-color: #ffffff;
+  text-align: center;
+  color: #424242;
+}
+
+.section2 h1{
+  padding-top: 100px;
+  font-size: 36px;
+}
+
+.section2 h5{
+  padding-top: 10px;
+  font-size: 36px;
+}
+
+.section2 ul li{
+  width: 32%;
+  display: inline-block;
+  list-style: none;
+  padding-top: 45px;
+}
+
+.section2 ul li h2{
+  font-size: 22px;
+  padding-top: 25px;
+  font-weight: solid;
+}
+
+.section2 ul li h3{
+  font-size: 13.5px;
+  padding-top: 20px;
+  width: 90%;
+  padding-bottom: 120px;
+}
+
+.section3{
+  background-color: #f3f3f3;
+  color: #424242;
+  text-align: center;
+}
+
+.section3 h1{
+  padding-top: 90px;
+  font-size: 36px;
+}
+
+.section3 h2{
+  padding-top: 15px;
+  font-size: 26px;
+}
+
+.line{
+  padding-top: 15px;
+}
+
+.section3 .photo{
+  position: inherit;
+  padding-top: 45px;
+}
+
+.section3 ul li{
+  width: 49%;
+  display: inline-block;
+}
