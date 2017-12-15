@@ -139,6 +139,7 @@
   height: 550px;
   background+:;
   background-image: url(/images/bloc1.png);
+  background-size: cover;
   text-align: center;
 }
 
