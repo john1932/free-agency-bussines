@@ -139,7 +139,7 @@
   height: 550px;
   background+:;
   background-image: url(/images/bloc1.png);
-  background-size: cover;
+  /* sters background cover */
   text-align: center;
 }
 
