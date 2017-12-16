@@ -1,10 +1,10 @@
-*{
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
 
-.info-operator{
+.info-operator {
   margin: 0 auto;
   position: static;
   height: 42px;
@@ -12,52 +12,52 @@
   border-bottom: 1px solid #e2e2e2;
 }
 
-.container{
+.container {
   width: 1024px;
   margin: 0 auto;
 }
 
-.info-operator h3{
+.info-operator h3 {
   font-size: 15px;
   color: #424242;
 }
 
-.info-operator a{
+.info-operator a {
   text-decoration: none;
   font-size: 15px;
   color: #424242;
 }
 
-.container{
+.container {
   width: 1024px;
 }
 
-.headerInfo{
+.headerInfo {
   float: left;
   padding-top: 1px;
 }
 
-.headerInfo ul li{
+.headerInfo ul li {
   display: inline-block;
   padding-top: 10px;
 }
 
-.headerInfo ul li:first-child{
-/*  padding-left: 728.9px;*/
+.headerInfo ul li:first-child {
+  /*  padding-left: 728.9px;*/
   padding-right: 10px;
 }
 
-.headerOperator{
+.headerOperator {
   float: right;
 }
 
-.headerOperator ul li{
+.headerOperator ul li {
   display: inline-block;
   padding-top: 12.5px;
   padding-left: 20px;
 }
 
-.headerOperator ul li:last-child{
+.headerOperator ul li:last-child {
   width: 25px;
   height: 25px;
   background: #1287bf;
@@ -67,35 +67,35 @@
   padding-left: 0;
 }
 
-.logo-menu{
+.logo-menu {
   height: 130px;
   background: #ffffff;
 }
 
-.logo{
- float: left;
- padding-top: 40px;
+.logo {
+  float: left;
+  padding-top: 40px;
 }
 
-.university{
+.university {
   float: left;
 }
 
-.busines-information{
+.busines-information {
   float: right;
   padding-left: 12px;
   color: #424242;
 }
 
-.busines-information h1{
+.busines-information h1 {
   font-size: 37px;
 }
 
-.busines-information h2{
+.busines-information h2 {
   font-size: 15px;
 }
 
-.nav{
+.nav {
   font-size: 15px;
   padding-top: 60px;
   padding-left: 190px;
@@ -103,7 +103,7 @@
   display: inline-block;
 }
 
-.nav ul li{
+.nav ul li {
   width: 19%;
   display: inline;
   list-style: none;
@@ -111,21 +111,21 @@
   padding-left: 16px;
 }
 
-.nav ul li img{
+.nav ul li img {
   padding-bottom: 2.5px;
   padding-right: 14px;
 }
 
-.nav ul a{
+.nav ul a {
   text-decoration: none;
   color: #4f4f4f;
 }
 
-.nav ul li span{
+.nav ul li span {
   color: #de2b24;
 }
 
-.nav .button-menu{
+.nav .button-menu {
   width: 170px;
   height: 38px;
   background: #de2b24;
@@ -135,28 +135,28 @@
   border-radius: 6px;
 }
 
-.section1{
+.section1 {
   height: 550px;
-  background+:;
+  background+: ;
   background-image: url(/images/bloc1.png);
   background-size: cover;
   text-align: center;
 }
 
-.section1 h1{
+.section1 h1 {
   font-size: 48px;
   color: #ffffff;
   padding-top: 175px;
 }
 
-.section1 h2{
+.section1 h2 {
   font-size: 26px;
   color: #ffffff;
   padding-top: 5px;
   padding-bottom: 30px;
 }
 
-.section1 .button-section1{
+.section1 .button-section1 {
   width: 335px;
   height: 75px;
   background: #f8cd53;
@@ -167,117 +167,117 @@
   border-radius: 6px;
 }
 
-.section2{
+.section2 {
   background-color: #ffffff;
   text-align: center;
   color: #424242;
 }
 
-.section2 h1{
+.section2 h1 {
   padding-top: 100px;
   font-size: 36px;
 }
 
-.section2 h5{
+.section2 h5 {
   padding-top: 10px;
   font-size: 36px;
 }
 
-.section2 ul li{
+.section2 ul li {
   width: 32%;
   display: inline-block;
   list-style: none;
   padding-top: 45px;
 }
 
-.section2 ul li h2{
+.section2 ul li h2 {
   font-size: 22px;
   padding-top: 25px;
   font-weight: solid;
 }
 
-.section2 ul li h3{
+.section2 ul li h3 {
   font-size: 13.5px;
   padding-top: 20px;
   width: 90%;
   padding-bottom: 120px;
 }
 
-.section3{
+.section3 {
   background-color: #f3f3f3;
   color: #424242;
 }
 
-.section3 h3{
+.section3 h3 {
   font-size: 18px;
   color: #555555;
 }
 
-.section3 p{
+.section3 p {
   font-size: 13.5px;
   color: #555555;
   padding-top: 18px;
 }
 
-.section3 .approch{
+.section3 .approch {
   text-align: center;
 }
 
-.section3 .approch h1{
+.section3 .approch h1 {
   padding-top: 90px;
   font-size: 36px;
 }
 
-.section3 .approch h2{
+.section3 .approch h2 {
   padding-top: 15px;
   font-size: 26px;
 }
 
-.approch .line{
+.approch .line {
   padding-top: 15px;
   padding-bottom: 45px;
 }
 
-.section3 .step1{
+.section3 .step1 {
   margin-top: 40px;
   background-color: #ffffff;
   border: 1px solid #e5e5e5;
   border-radius: 5px;
 }
 
-.step1:after{
+.step1:after {
   display: block;
   content: "";
   clear: both;
 }
 
-.step1-first-colonne{
+.step1-first-colonne {
   float: left;
   position: relative;
   width: 40%;
 }
 
-.step1-first-colonne:after{
+.step1-first-colonne:after {
   display: block;
   content: "";
   clear: both;
 }
 
-.step1 .photo{
+.step1 .photo {
   float: left;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
-  border-top:  1px solid #e5e5e5;
-  border-bottom:  1px solid #e5e5e5;
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
 }
 
-.step1 .doforstep1{
+.step1 .doforstep1 {
   position: absolute;
   padding: 17%;
   left: 63%;
 }
 
-.doforstep1 h3{
+.doforstep1 h3 {
   font-size: 59.73px;
   text-align: center;
   color: #ffffff;
@@ -285,7 +285,7 @@
   font-family: georgia;
 }
 
-.doforstep1 p{
+.doforstep1 p {
   font-size: 19.91px;
   padding-top: 0;
   padding-left: 35px;
@@ -293,7 +293,7 @@
   font-family: georgia;
 }
 
-.step1 .heading1{
+.step1 .heading1 {
   padding-top: 70px;
   float: right;
   width: 40%;
@@ -301,212 +301,46 @@
   position: absolute;
 }
 
-.step2{
+.step2 {
   margin-top: 40px;
   background-color: #ffffff;
   border: 1px solid #e5e5e5;
   border-radius: 5px;
 }
 
-.step2:after{
+.step2:after {
   display: block;
   content: "";
   clear: both;
 }
 
-.step2-first-colonne{
-   float: right;
-   position: relative;
-   width: 58%;
-}
-
-.step2-first-colonne:after{
-  display: block;
-  content: "";
-  clear: both;
-}
-
-.step2 .strada{
-  float: right;
-  border-top-right-radius: 5px;
-  border-bottom-right-radius: 5px;
-  border-top:  1px solid #e5e5e5;
-  border-bottom:  1px solid #e5e5e5;
-}
-
-.doforstep2{
-  position: absolute;
-  padding: 17%;
-  left: 7%;
-}
-
-.doforstep2 h3{
-  font-size: 59.73px;
-  text-align: center;
-  color: #ffffff;
-  padding-left: 35px;
-  font-family: georgia;
-}
-
-.doforstep2 p{
-  font-size: 19.91px;
-  padding-top: 0;
-  padding-left: 35px;
-  color: #ffffff;
-  font-family: georgia;
-}
-
-.heading2{
-  padding-top: 70px;
-  float: left;
-  width: 42%;
-  position: absolute;
-}
-
-.heading2:after{
-  display: block;
-  content: "";
-  clear: both;
-}
-
-.heading2 h3{
-  float: right;
-}
-
-.heading2 p{
-  float: right;
-  padding-left: 27px;
-  width: 85%;
-}
-
-.section3 .step3{
-  margin-top: 40px;
-  background-color: #ffffff;
-  border: 1px solid #e5e5e5;
-  border-radius: 5px;
-}
-
-.step3:after{
-  display: block;
-  content: "";
-  clear: both;
-}
-
-.step3-first-colonne{
-  float: left;
-  position: relative;
-  width: 40%;
-}
-
-.step3-first-colonne:after{
-  display: block;
-  content: "";
-  clear: both;
-}
-
-.step3 .masa{
-  float: left;
-  border-top-left-radius: 5px;
-  border-bottom-left-radius: 5px;
-  border-top:  1px solid #e5e5e5;
-  border-bottom:  1px solid #e5e5e5;
-}
-
-.step3 .doforstep3{
-  position: absolute;
-  padding: 17%;
-  left: 63%;
-}
-
-.doforstep3 h3{
-  font-size: 59.73px;
-  text-align: center;
-  color: #ffffff;
-  padding-left: 35px;
-  font-family: georgia;
-}
-
-.doforstep3 p{
-  font-size: 19.91px;
-  padding-top: 0;
-  padding-left: 35px;
-  color: #ffffff;
-  font-family: georgia;
-}
-
-.step3 .heading3{
-  padding-top: 70px;
-  float: right;
-  width: 40%;
-  right: 14.5%;
-  position: absolute;
-}
-
-.step4{
-  margin-top: 40px;
-  background-color: #ffffff;
-  border: 1px solid #e5e5e5;
-  border-radius: 5px;
-}
-
-.step4:after{
-  display: block;
-  content: "";
-  clear:both;
-}
-
-.step4-first-colonne{
+.step2-first-colonne {
   float: right;
   position: relative;
   width: 58%;
 }
 
-.step4-first-colonne:after{
+.step2-first-colonne:after {
   display: block;
   content: "";
   clear: both;
 }
 
-.notebook{
+.step2 .strada {
   float: right;
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
-  border-top:  1px solid #e5e5e5;
-  border-bottom:  1px solid #e5e5e5;
-  position: relative;
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
 }
 
-.doforstep4{
+.doforstep2 {
   position: absolute;
-  padding: 15%;
+  padding: 17%;
   left: 7%;
 }
 
-.heading4{
-  padding-top: 70px;
-  float: left;
-  width: 42%;
-  position: absolute;
-}
-
-.heading4:after{
-  display: block;
-  content: "";
-  clear: both;
-}
-
-.heading4 h3{
-  float: right;
-  padding-right: 22px;
-}
-
-.heading4 p{
-  float: right;
-  padding-left: 15px;
-  width: 85%;
-}
-
-.doforstep4 h3{
+.doforstep2 h3 {
   font-size: 59.73px;
   text-align: center;
   color: #ffffff;
@@ -514,7 +348,7 @@
   font-family: georgia;
 }
 
-.doforstep4 p{
+.doforstep2 p {
   font-size: 19.91px;
   padding-top: 0;
   padding-left: 35px;
@@ -522,6 +356,267 @@
   font-family: georgia;
 }
 
-.section4{
+.heading2 {
+  padding-top: 70px;
+  float: left;
+  width: 42%;
+  position: absolute;
+}
+
+.heading2:after {
+  display: block;
+  content: "";
+  clear: both;
+}
+
+.heading2 h3 {
+  float: right;
+}
+
+.heading2 p {
+  float: right;
+  padding-left: 27px;
+  width: 85%;
+}
+
+.section3 .step3 {
+  margin-top: 40px;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  border-radius: 5px;
+}
+
+.step3:after {
+  display: block;
+  content: "";
+  clear: both;
+}
+
+.step3-first-colonne {
+  float: left;
+  position: relative;
+  width: 40%;
+}
+
+.step3-first-colonne:after {
+  display: block;
+  content: "";
+  clear: both;
+}
+
+.step3 .masa {
+  float: left;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.step3 .doforstep3 {
+  position: absolute;
+  padding: 17%;
+  left: 63%;
+}
+
+.doforstep3 h3 {
+  font-size: 59.73px;
+  text-align: center;
+  color: #ffffff;
+  padding-left: 35px;
+  font-family: georgia;
+}
+
+.doforstep3 p {
+  font-size: 19.91px;
+  padding-top: 0;
+  padding-left: 35px;
+  color: #ffffff;
+  font-family: georgia;
+}
+
+.step3 .heading3 {
+  padding-top: 70px;
+  float: right;
+  width: 40%;
+  right: 14.5%;
+  position: absolute;
+}
+
+.step4 {
+  margin-top: 40px;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  border-radius: 5px;
+}
+
+.step4:after {
+  display: block;
+  content: "";
+  clear: both;
+}
+
+.step4-first-colonne {
+  float: right;
+  position: relative;
+  width: 58%;
+}
+
+.step4-first-colonne:after {
+  display: block;
+  content: "";
+  clear: both;
+}
+
+.notebook {
+  float: right;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
+  position: relative;
+}
+
+.doforstep4 {
+  position: absolute;
+  padding: 15%;
+  left: 7%;
+}
+
+.heading4 {
+  padding-top: 70px;
+  float: left;
+  width: 42%;
+  position: absolute;
+}
+
+.heading4:after {
+  display: block;
+  content: "";
+  clear: both;
+}
+
+.heading4 h3 {
+  float: right;
+  padding-right: 22px;
+}
+
+.heading4 p {
+  float: right;
+  padding-left: 15px;
+  width: 85%;
+}
+
+.doforstep4 h3 {
+  font-size: 59.73px;
+  text-align: center;
+  color: #ffffff;
+  padding-left: 35px;
+  font-family: georgia;
+}
+
+.doforstep4 p {
+  font-size: 19.91px;
+  padding-top: 0;
+  padding-left: 35px;
+  color: #ffffff;
+  font-family: georgia;
+}
+
+.section4 {
+  padding-top: 110px;
   background-color: #de2b24;
+}
+
+.work{
+  text-align: center;;
+  color: #ffffff;
+}
+
+.work h4{
+  padding-top: 8px;
+  font-size: 20px;
+}
+
+.work h1{
+  font-size: 36px;
+}
+
+.work .line-white{
+  padding-top: 17px;
+}
+
+.project-name{
+  padding-top: 45px;
+}
+
+.project1{
+  padding-bottom: 0;
+}
+
+.project1 ul li{
+  width: 24.5%;
+  display: inline-block;
+  list-style: none;
+}
+
+.photo-ap{
+  width: 255px;
+  height: 245px;
+  position: relative;
+}
+
+.copac{
+  width: 255px;
+  height: 245px;
+  position: relative;
+}
+
+.rectangle{
+  width: 255px;
+  height: 245px;
+  position: relative;
+  text-align: center;
+}
+
+.avion{
+  position: absolute;
+  bottom: 155%;
+  left: 39%;
+}
+
+.rectangle h3{
+  position: absolute;
+  bottom: 143%;
+  left: 29%;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.rectangle p{
+    position: absolute;
+    bottom: 135%;
+    left: 32%;
+    color: #ffffff;
+}
+
+.project2{
+  padding-top: none;
+}
+
+.project2 ul li{
+  width: 24.5%;
+  display: inline-block;
+  list-style: none;
+}
+
+.punte{
+  width: 255px;
+  height: 245px;
+  position: relative;
+}
+
+.strada{
+  width: 255px;
+  height: 245px;
+  position: relative;
 }
